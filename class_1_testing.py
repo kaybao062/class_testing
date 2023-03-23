@@ -9,6 +9,4 @@ print("Hello, World!!!")
 
 print("more math.")
 
-print('no more math')
-
-20*10
+print('math')
